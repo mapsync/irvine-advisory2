@@ -1,14 +1,15 @@
 ---
 title: "Contact"
 contact_entries:
-  - heading: Location
+  - heading: Address
     text: |
-      3250 Blazer Parkway  
-      Lexington, KY 40509
-  - heading: Phone, Fax & Email
+      238 Broadway Street  
+      Irvine, KY 40336
+  - heading: Phone, Fax & Hours
     text: |
-      (859) 264-7500 - Office  
-      (859) 264-7501 - Fax  
-      info@cdpengineers.com
+      (606) 723-2197 - Office  
+      (606) 723-2344 - After Hours
+      (606) 723-2199 - Fax  
+      8:00AM-4:30PM (Monday-Friday)
 ---
 
