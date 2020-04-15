@@ -1,6 +1,6 @@
 ---
 center: '{"type":"Point","coordinates":[-84.4395275,38.0024123]}'
-zoom: 16
+zoom: 13
 title: Map
 label: Advisory Area
 description: App training exercise
