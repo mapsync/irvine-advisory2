@@ -5,7 +5,10 @@ title = "Irvine Municipal Utilities"
 
 [params]
     Id = "imuwater"
-    Facebook = "https://www.facebook.com/cdpky"
+    Color = "#0b3fa5"
+    AppTitle = "Irvine Advisory"
+    Description = "Alerts and interactive map to serve the customers of Irvine Municipal Utilities"
+    Facebook = ""
     BillPay = "https://portal.utilitydistrict.com/2588"
 
 [blackfriday]
