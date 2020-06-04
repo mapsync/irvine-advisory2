@@ -1,6 +1,6 @@
 ---
 title: Boil Water Advisory
-draft: true
+draft: false
 date: 2020-06-04T12:59:27.950Z
 description: GRINDSTONE ROAD, MEADE DRIVE, EDGEWOOD DRIVE, MISTY HOLLOW
 image: /img/download.jpg
