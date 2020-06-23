@@ -1,6 +1,6 @@
 ---
 title: BOIL WATER ADVISORY
-draft: true
+draft: false
 date: 2020-06-23T21:36:09.000Z
 description: Boil water advisory for residents who live on 8th street above Poplar street.
 image: /img/download.jpg
