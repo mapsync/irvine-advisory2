@@ -1,7 +1,7 @@
 ---
 title: Boil Water Advisory
 draft: false
-date: 2020-06-25T02:51:35.064Z
+date: 2020-06-25T03:00:29.017Z
 description: Residents of the City of Ravenna are under a boil water advisory
   until further notice.
 image: /img/download.jpg
