@@ -1,9 +1,8 @@
 ---
-title: Boil Water Advisory
+title: Boil Water Advisory LIFTED
 draft: false
-date: 2020-06-25T03:00:29.017Z
-description: Residents of the City of Ravenna are under a boil water advisory
-  until further notice.
-image: /img/download.jpg
+date: 2020-06-26T12:53:12.586Z
+description: Residents of the City of Ravenna no longer have to boil water.
+image: /img/lifted-1-.jpg
 ---
-Due to a main break on 6th street residents of the City of Ravenna need to bring any water to be consumed to a rolling boil for 1 minute.  Allow to cool before consuming.
+All samples we collected after flushing the system were tested, and were reported as being negative for harmful bacteria.
