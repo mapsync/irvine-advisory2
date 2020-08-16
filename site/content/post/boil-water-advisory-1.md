@@ -1,6 +1,6 @@
 ---
 title: Boil Water Advisory
-draft: true
+draft: false
 date: 2020-08-16T16:09:48.206Z
 description: Residents who live on Broadway from Rose Bud street to the City of
   Ravenna, including The City of Ravenna, Cow Creek, Ticky Fork, Pitts Road,
