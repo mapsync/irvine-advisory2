@@ -1,8 +1,11 @@
 ---
-title: Boil Water Advisory LIFTED
+title: Boil Water Advisory
 draft: false
 date: 2020-06-26T12:53:12.586Z
-description: Residents of the City of Ravenna no longer have to boil water.
-image: /img/lifted-1-.jpg
+description: Residents who live on Broadway from Rose Bud street to the City of
+  Ravenna, including The City of Ravenna, Cow Creek, Ticky Fork, Pitts Road,
+  Smith Ln, and Campbell's Branch Rd. will need to bring all water consumed to a
+  rolling boil.  Allow to cool before drinking!
+image: /img/download.jpg
 ---
-All samples we collected after flushing the system were tested, and were reported as being negative for harmful bacteria.
+ Crews are working to repair the leak.  The system will be flushed when repairs are complete.  Sorry for the inconvenience.
