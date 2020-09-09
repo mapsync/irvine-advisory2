@@ -1,8 +1,8 @@
 ---
-title: Boil Water Advisories LIFTED!
-draft: false
-date: 2020-08-20T15:17:15.756Z
-description: Boil water advisories for Irvine Municipal Utilities have been LIFTED!
-image: /img/lifted-1-.jpg
+title: BOIL WATER ADVISORY!
+draft: true
+date: 2020-09-09T14:22:02.430Z
+description: Boil water advisory has been issued for Irvine Municipal Utilities customers!
+image: /img/download.jpg
 ---
-If you are a customer of the Irvine Municipal Utilities, it is no longer necessary for you to boil your water.  Samples were taken in various locations in the affected areas, tested by an independent lab, and reported to be  free of harmful bacteria.  We apologize for any inconvenience.
+A BOIL WATER ADVISORY has been issued for the following areas:  Winchester Rd. from Duck Ware Road to Calloway's creek, Duck Ware road, Coal Wash Road, Hughes Lane, Beth Drive, Engineer Drive, Engineer Drive, Landfill Road, and Patriot Drive.  All customers in these areas are to bring all water to a rolling boil before consuming.  We apologize for any inconvenience.
