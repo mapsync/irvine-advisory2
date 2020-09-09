@@ -1,6 +1,6 @@
 ---
 title: BOIL WATER ADVISORY!
-draft: true
+draft: false
 date: 2020-09-09T14:22:02.430Z
 description: Boil water advisory has been issued for Irvine Municipal Utilities customers!
 image: /img/download.jpg
