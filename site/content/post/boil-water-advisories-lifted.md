@@ -1,6 +1,6 @@
 ---
 title: Boil water advisory LIFTED!
-draft: true
+draft: false
 date: 2020-09-11T16:03:25.229Z
 description: Boil water advisory has been LIFTED for Irvine Municipal Utilities customers!
 image: /img/download.jpg
