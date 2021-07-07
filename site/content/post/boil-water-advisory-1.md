@@ -1,6 +1,6 @@
 ---
 title: BOIL WATER ADVISORY LIFTED
-draft: false
+draft: true
 date: 2021-07-01T13:28:57.688Z
 description: Main street area near Bergman House boil water advisory lifted
 image: /img/lifted-1-.jpg
