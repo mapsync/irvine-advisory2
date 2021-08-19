@@ -2,10 +2,10 @@
 title: BOIL WATER ADVISORY
 draft: false
 date: 2021-08-18T14:57:08.343Z
-description: Boil water advisory.
+description: Boil water advisory LIFTED.
 image: /img/download.jpg
 ---
-Boiled water advisory for the following areas:
+**Boiled water advisory for the following areas has been lifted:**
 
 \*Broadway St. from the main St. (Irvine) intersection, to the Lily Ave intersection.
 
