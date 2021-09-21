@@ -1,8 +1,8 @@
 ---
-title: Boil Water Advisory
+title: Boil Water Advisory LIFTED!
 draft: false
-date: 2021-09-17T20:30:57.359Z
-description: Boil Water Advisory for Daniels Addition and Pearl Street in Ravenna.
-image: /img/download.jpg
+date: 2021-09-21T19:15:53.100Z
+description: Boil Water Advisory  LIFTED for Daniels Addition and Pearl Street in Ravenna.
+image: /img/lifted-1-.jpg
 ---
-A boil water advisory has been issued for the residents of Daniels Addition and Pearl Street in Ravenna.  Residents who live on those streets are asked to bring any water intended to be ingested to a rolling boil for 3 minutes.  Allow to water to cool before drinking.
+The boil water advisory has been LIFTED for the residents of Daniels Addition and Pearl Street in Ravenna.  Residents who live on those streets no longer need to boil there water.
