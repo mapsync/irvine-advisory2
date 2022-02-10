@@ -1,6 +1,6 @@
 ---
 title: BOIL WATER ADVISIORY
-draft: false
+draft: true
 date: 2022-02-10T13:01:44.363Z
 description: White Oak, and Stump area!
 image: /img/download.jpg
