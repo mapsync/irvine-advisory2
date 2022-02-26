@@ -1,8 +1,8 @@
 ---
-title: BOIL WATER ADVISIORY
+title: Boil Water Advisory LIFTED!
 draft: false
-date: 2022-02-25T16:22:45.956Z
+date: 2022-02-26T17:45:50.237Z
 description: STUMP AND CALMES AREA!
-image: /img/download.jpg
+image: /img/lifted-1-.jpg
 ---
-A BOIL WATER ADVISORY has been issued for the Irvine Municipal Utilities customers of the STUMP AND CALMES ROAD AREA! to include, RAINTREE COURT, RUBY LANE,  VADA DRIVE,  WATER TOWER LANE, AND VADA DRIVE.  Customers who live on those roads and drives, until further notice, are asked to bring any water intended to be ingested to a rolling boil for 3 minutes.  Allow to water to cool before drinking.
+**A BOIL WATER ADVISORY** has been **LIFTED** for the Irvine Municipal Utilities customers of the STUMP AND CALMES ROAD AREA! to include, RAINTREE COURT, RUBY LANE,  VADA DRIVE,  WATER TOWER LANE, AND VADA DRIVE.  Customers who live on those roads and drives **NO LONGER NEED TO BOIL WATER**.
