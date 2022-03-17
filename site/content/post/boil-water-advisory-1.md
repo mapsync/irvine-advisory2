@@ -1,7 +1,7 @@
 ---
 title: BOIL WATER ADVISORY
 draft: false
-date: 2022-03-17T14:13:11.959Z
+date: 2022-03-17T17:01:05.901Z
 description: Grindstone road, Edgewood drive, Meade Drive, and Misty Hollow.
 image: /img/download.jpg
 ---
