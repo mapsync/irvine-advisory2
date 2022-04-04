@@ -1,6 +1,6 @@
 ---
 title: BOIL WATER ADVISORY "LIFTED"
-draft: false
+draft: true
 date: 2022-03-18T15:31:21.883Z
 description: Grindstone road, Edgewood drive, Meade Drive, and Misty Hollow Boil
   Water Advisory has been "LIFTED"!
