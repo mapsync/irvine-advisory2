@@ -9,7 +9,7 @@ title = "Irvine Municipal Utilities"
     AppTitle = "Irvine Advisory"
     Description = "Alerts and interactive map to serve the customers of Irvine Municipal Utilities"
     Facebook = ""
-    BillPay = "https://portal.utilitydistrict.com/2588"
+    BillPay = "https://irvine.utilitydistrict.com"
 
 [blackfriday]
     extensions = ["hardLineBreak"]
