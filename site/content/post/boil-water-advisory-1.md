@@ -1,9 +1,8 @@
 ---
-title: BOIL WATER ADVISORY "LIFTED"
+title: BOIL WATER ADVISORY
 draft: true
-date: 2022-03-18T15:31:21.883Z
-description: Grindstone road, Edgewood drive, Meade Drive, and Misty Hollow Boil
-  Water Advisory has been "LIFTED"!
-image: /img/lifted-1-.jpg
+date: 2022-06-20T14:58:22.741Z
+description: Boil Water Advisory for White Oak Road past White Oak Church
+image: /img/download.jpg
 ---
-Residents who live in the affected areas ARE NO LONGER UNDER A BOIL WATER ADVISORY!
+Residents who live on White Oak Road beginning at mile marker 2020 including Oak Valley, Sunrise Valley, Meadow Lark Road, Shallow Creek Road, Maggie Lane, and Eades Drive should bring tap water, to be consumed,  to a rolling boil for at least 3 minutes.  Allow water to cool before ingesting.
