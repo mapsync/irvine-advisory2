@@ -1,6 +1,6 @@
 ---
 title: BOIL WATER ADVISORY
-draft: true
+draft: false
 date: 2022-06-20T14:58:22.741Z
 description: Boil Water Advisory for White Oak Road past White Oak Church
 image: /img/download.jpg
