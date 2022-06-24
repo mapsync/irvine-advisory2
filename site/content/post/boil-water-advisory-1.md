@@ -1,6 +1,6 @@
 ---
 title: BOIL WATER ADVISORY *LIFTED*
-draft: false
+draft: true
 date: 2022-06-22T16:56:14.302Z
 description: Boil Water Advisory for White Oak Road past White Oak Church has been lifted.
 image: /img/lifted-1-.jpg
