@@ -1,9 +1,9 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY "LIFTED"
 draft: false
-date: 2022-07-14T18:40:03.318Z
-description: Boil water Advisory for IMU customers starting at 2220  to 4152
-  along Highway 89.
-image: /img/download.jpg
+date: 2022-07-18T13:26:12.130Z
+description: Boil water Advisory "LIFTED" for IMU customers starting at 2220  to
+  4152 along Highway 89.
+image: /img/lifted-1-.jpg
 ---
-IMU customer who live along Highway 89 from 2220 to 4152 ( Estill County Bus Garage to Calloway Creek) need to bring any tap water to be consumed to a rolling boil for 3 minutes and allowed to cool before ingesting. Crews are working to fix the main break.  Thank you for your patience.
+IMU customer who live along Highway 89 from 2220 to 4152 ( Estill County Bus Garage to Calloway Creek) **NO LONGER** need to boil tap water to be consumed.  Thank you for your patience.
