@@ -1,9 +1,9 @@
 ---
-title: BOIL WATER ADVISORY LIFTED!!
+title: BOIL WATER ADVISORY ISSUED!!
 draft: false
-date: 2022-11-01T18:44:49.628Z
-description: The boil water advisory HAS BEEN LIFTED for residents who live from
-  501 TO 509 Laurel Street. Including 114 TO 121 Francis Street.
-image: /img/lifted-1-.jpg
+date: 2022-12-01T17:29:11.151Z
+description: Pitts road, Willow Tree lane, and McIntosh hollow should boil water
+  until further notice.
+image: /img/download.jpg
 ---
-Irvine Municipal Utilities customers in the listed areas are no longer under a biol water advisory.  Sorry for the inconvenience.
+Irvine Municipal Utilities customers who live in the affected area should use bottled water or boiled water to drinking and to prepare and cook food.  Water should be brought to a full rolling boil for one minute, and allowed to cool before consuming.  For more information about safety tips during a boil water advisory visit our website, www.imuwater.com.
