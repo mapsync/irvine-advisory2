@@ -1,10 +1,9 @@
 ---
-title: BOIL WATER ADVISORY !!
+title: Boil water advisories lifted !!
 draft: false
-date: 2023-07-25T09:04:08.800Z
-description: Boil water advisory issued for South Madison Ave., Evergreen Drive,
-  Cardinal Court, Armor Street, North Lilly Avenue, and customers who live on
-  and between 216 Broadway to 266 Broadway.
-image: /img/download.jpg
+date: 2023-07-27T16:39:45.834Z
+description: All Boil water advisories for Irvine Municipal Utilities on the
+  July 25th and 26th of July have been lifted.
+image: /img/lifted-1-.jpg
 ---
-Irvine Municipal Utilities customers who live on the above list streets will need to boil any water for consumption until further notice.  If you know someone who lives on these streets who you think may not have social media or other means to receive this notice please advise them.  For more information about boil water advisories go to www.imuwater.com.  We apologize for this inconvenience.
+The boil water advisories have been lifted.  We apologize for the inconvenience, but you safety is our top concern.
