@@ -1,8 +1,8 @@
 ---
-title: BOIL WATER ADVISORY LIFTED
+title: "BOIL WATER ADVISORY "
 draft: false
-date: 2023-10-23T13:06:02.017Z
-description: Boil water advisory has been lifted
-image: /img/lifted-1-.jpg
+date: 2023-10-25T04:05:41.855Z
+description: Boil Water advisory for Madison Ave area.
+image: /img/download.jpg
 ---
-The boil water advisory has been lifted for all IMU water customers.  We apologized for any inconvenience this may have caused.
+The boil water advisory has been issued for the following locations.  Broadway from 216 to 266, Madison Ave, North Madison Ave, Evergreen Dr, Cardinal Court, Armor Ave, and North Lily Ave.  IMU customers who live on these streets bring water to be consumed to a rolling boil for 1 minute and allowed to cool before ingesting until further notice.  Crews are working hard to return water back into service.
