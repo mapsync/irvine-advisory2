@@ -1,7 +1,7 @@
 ---
 title: BOIL WATER ADVISORY LIFTED!
 draft: false
-date: 2023-11-20T17:43:33.503Z
+date: 2023-11-23T16:14:57.114Z
 description: Boil Water Advisory lifted
 image: /img/lifted-1-.jpg
 ---
