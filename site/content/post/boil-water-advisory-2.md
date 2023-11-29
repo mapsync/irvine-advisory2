@@ -1,8 +1,8 @@
 ---
-title: BOIL WATER ADVISORY
+title: BOIL WATER ADVISORY LIFTED
 draft: false
-date: 2023-11-24T23:07:14.343Z
-description: Boil Water Advisory
-image: /img/download.jpg
+date: 2023-11-29T17:32:42.025Z
+description: Boil Water Advisory for IMU water customers has been lifted.
+image: /img/lifted-1-.jpg
 ---
-A boil water advisory has been issued for the following: Broadway between between Main Street and 216 Broadway.  Includes Estill Ave., and South Court street from Broadway to Church Street. (Church Street should not be affected.)  Customers who live in these areas should bring water to be consumed to a rolling boil for 3 minutes and allowed to cool before use.  Crews are working to return service as quickly as possible.
+A﻿t this time IMU no longer has any boil water advisories in effect.
