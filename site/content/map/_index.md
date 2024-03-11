@@ -1,6 +1,6 @@
 ---
 center: '{"type":"Point","coordinates":[-83.9589036,37.6899334]}'
-zoom: 16
+zoom: 14
 title: Map
 label: Irvine Municipal Utilities
 description: Office Location
