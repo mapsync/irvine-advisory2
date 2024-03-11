@@ -1,8 +1,9 @@
 ---
-title: BOIL WATER ADVISORY LIFTED
+title: "BOIL WATER ADVISORY "
 draft: false
-date: 2024-02-14T20:57:38.537Z
-description: Boil water advisory LIFTED
-image: /img/lifted-1-.jpg
+date: 2024-03-11T16:57:18.601Z
+description: "Boil water advisory for the following areas: Cantrill St., West
+  St., George St., Pine St., Oakdale Dr., North Hudson."
+image: /img/download.jpg
 ---
-T﻿he boil water advisory has been lifted as of 3:50 pm February 14, 2024. Happy Valentines Day
+C﻿ustomers under the boil water advisory using water for consumption will need to bring the water to a rolling boil for 3 minutes. For more info on boil water advisories please visit our website at imuwater.com.
