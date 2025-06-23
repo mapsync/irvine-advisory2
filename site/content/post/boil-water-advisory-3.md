@@ -1,8 +1,10 @@
 ---
-title: Boil Water Advisory Lifted
+title: Boil Water Advisory
 draft: false
-date: 2024-10-18T07:06:46.290Z
-description: The boil water advisory for Main Street area has been lifted
-image: /img/lifted-1-.jpg
+date: 2025-06-23T20:40:58.073Z
+description: "A boil water advisory has been issued for the following addresses:
+  212 Kirkland to 2142 Kirkland.  If you live at or in between these addresses
+  you should boil your water before consuming."
+image: /img/download.jpg
 ---
-Residents who live on Main street between Orchard and Carhartt Ave no longer need to boil water intended for consumption. Also people who live on Orchard Ave, Park Ave, Riddle Court, Mercy Court, Carhartt Ave, Woods Point drive, Pine Tree Lane, and Covey Road no longer need to boil water for consumption.
+A boil water advisory has been issued for the following addresses: 212 Kirkland to 2142 Kirkland.  If you live at or in between these addresses you should boil your water before consuming.
