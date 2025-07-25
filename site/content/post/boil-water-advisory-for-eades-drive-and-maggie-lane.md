@@ -1,6 +1,6 @@
 ---
 title: Boil Water Advisory for Eades Drive and Maggie Lane
-draft: true
+draft: false
 date: 2025-07-25T19:44:31.000Z
 description: B﻿oil water advisory has been issued for ALL of Eades Drive and Maggie Lane.
 image: /img/download.jpg
