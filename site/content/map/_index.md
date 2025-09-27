@@ -1,6 +1,6 @@
 ---
 center: '{"type":"Point","coordinates":[-83.9667463,37.6918352]}'
-zoom: 15
+zoom: 12
 title: Map
 label: Irvine Municipal Utilities
 description: Kirkland Ave.
