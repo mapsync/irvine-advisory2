@@ -1,7 +1,7 @@
 ---
 title: Boil Water Advisory
-draft: false
-date: 2025-12-18T15:44:24.104Z
+draft: true
+date: 2025-12-18T17:53:39.607Z
 description: >-
   Stump Road
 
