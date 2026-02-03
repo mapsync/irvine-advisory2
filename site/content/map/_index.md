@@ -1,6 +1,6 @@
 ---
 center: '{"type":"Point","coordinates":[-83.9574552,37.6884731]}'
-zoom: 14
+zoom: 13
 title: Map
 label: Irvine Municipal Utilities
 description: Boil Water Advisory
