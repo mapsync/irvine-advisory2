@@ -13,8 +13,7 @@ description: |
   Foothills Court
 image: /img/lifted-1-.jpg
 ---
-A Boil Water Advisory has been issued for the following areas: 526 Broadway to 815 Broadway (both sides of street)
-Sycamore Street
+A Boil Water Advisory has been LIFTED for the following areas: 526 Broadway to 815 Broadway (both sides of street) Sycamore Street
 High Street
 Chandler Street
 Chamberlain Branch
