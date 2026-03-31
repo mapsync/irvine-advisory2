@@ -2,24 +2,16 @@
 title: Boil Water Advisory
 draft: false
 date: 2026-03-27T08:56:39.521Z
-description: >-
+description: |
   
-  A Boil Water Advisory has been issued for the following areas: 
-
+  A Boil Water Advisory has been LIFTED for the following areas: 
   526 Broadway to 815 Broadway (both sides of street)
-
   Sycamore Street
-
   High Street
-
   Chandler Street
-
   Chamberlain Branch
-
   Foothills Court
-
-  Customers under the boil advisory using water for consumption will need to bring the water to a rolling boil for at least 3 minutes. For more info on boil water advisories please visit our website at www. imuwater.com.
-image: /img/download.jpg
+image: /img/lifted-1-.jpg
 ---
 A Boil Water Advisory has been issued for the following areas: 526 Broadway to 815 Broadway (both sides of street)
 Sycamore Street
