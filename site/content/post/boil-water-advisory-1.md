@@ -3,6 +3,7 @@ title: Boil Water Advisory
 draft: false
 date: 2026-08-18T17:56:04.636Z
 description: Boil Water Advisory
+image: /img/download.jpg
 ---
 \*\*\*BOIL WATER ADVISORY HAS BEEN ISSUED\*\*\* for the following areas:
 
