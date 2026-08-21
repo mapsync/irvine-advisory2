@@ -1,5 +1,5 @@
 ---
-title: Boil Water Advisory
+title: Boil Water Advisory LIFTED
 draft: false
 date: 2026-08-21T12:31:31.738Z
 description: Boil Water Advisory LIFTED
